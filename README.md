@@ -20,20 +20,20 @@ __Нурадиль Тахирович__ 2004 (21 год)
 - 🧠 Основатель Creative студии J.CODE.S
 
 ### ⚡ Философия:
-Я — энтузиаст и экспериментатор. Ищу нестандартные подходы, быстрые итерации и системный взгляд на архитектуру.
+Энтузиаст и экспериментатор. Ищу нестандартные подходы, быстрые итерации и системный взгляд на архитектуру.
 
 # Стек:
 - Языки программирования:
 
-  [![My Skills](https://skillicons.dev/icons?i=php,js,java,py,bootstrap,java)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=php,js,java,py,nodejs,go,cpp)](https://skillicons.dev)
 
 - Прочее навыки:
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,mysql,ubuntu,jquery,threejs,arduino,firebase,redis)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,mysql,ubuntu,jquery,threejs,arduino,firebase,redis,aws)](https://skillicons.dev)
 
 - Инструменты:
 
-  [![My Skills](https://skillicons.dev/icons?i=github,blender,obsidian,vscode,figma,ai,ps,pr,trello,jira)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=github,blender,obsidian,vscode,figma,ai,ps,pr,visualstudio,notion,npm)](https://skillicons.dev)
 
 P.S.
 Мир тесен, а GitHub — ещё теснее. Увидимся в коммитах.
