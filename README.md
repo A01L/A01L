@@ -14,11 +14,11 @@ __Нурадиль Тахирович__ 2004 (21 год)
 
 - Прочее навыки:
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,mysql,ubuntu,jquery,threejs,arduino,firebase,redis,aws)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,threejs,mysql,ubuntu,firebase,redis,aws,arduino)](https://skillicons.dev)
 
 - Инструменты:
 
-  [![My Skills](https://skillicons.dev/icons?i=github,blender,obsidian,vscode,figma,ai,ps,pr,visualstudio,notion,npm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,npm,figma,obsidian,notion,blender,ai,ps,pr)](https://skillicons.dev)
 
 ## Достижения:
 - Гран-при на Хакатоне 2023 во время колледжа
