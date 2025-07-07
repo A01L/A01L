@@ -10,19 +10,19 @@ __Нурадиль Тахирович__ 2004 (21 год)
 ## Стек:
 - Основные ЯП:
 
-  [![My Skills](https://skillicons.dev/icons?i=php,js,py)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=php,js,py)](https://github.com/A01L)
 
 - Дополнительные ЯП:
 
-  [![My Skills](https://skillicons.dev/icons?i=java,nodejs,go,cpp,ts)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,nodejs,go,cpp,ts)](https://github.com/A01L)
 
 - Прочее навыки:
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,threejs,mysql,ubuntu,firebase,redis,aws,arduino)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,threejs,mysql,ubuntu,firebase,redis,aws,arduino)](https://github.com/A01L)
 
 - Инструменты:
 
-  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,npm,figma,obsidian,notion,blender,ai,ps,pr)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,npm,figma,obsidian,notion,blender,ai,ps,pr)](https://github.com/A01L)
 
 ## Достижения:
 - Гран-при на Хакатоне 2023 во время колледжа
