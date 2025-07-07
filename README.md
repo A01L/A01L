@@ -8,9 +8,13 @@ __Нурадиль Тахирович__ 2004 (21 год)
 - Дополнительное — курс от Gies College of Business (University of Illinois) на платформе Coursera
 
 ## Стек:
-- Языки программирования:
+- Основной ЯП:
 
-  [![My Skills](https://skillicons.dev/icons?i=php,js,java,py,nodejs,go,cpp)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=php,js,py)](https://skillicons.dev)
+
+- Дополнительные ЯП:
+
+  [![My Skills](https://skillicons.dev/icons?i=java,nodejs,go,cpp,ts)](https://skillicons.dev)
 
 - Прочее навыки:
 
