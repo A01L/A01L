@@ -8,7 +8,7 @@ __Нурадиль Тахирович__ 2004 (21 год)
 - Дополнительное — курс от Gies College of Business (University of Illinois) на платформе Coursera
 
 ## Стек:
-- Основной ЯП:
+- Основные ЯП:
 
   [![My Skills](https://skillicons.dev/icons?i=php,js,py)](https://skillicons.dev)
 
