@@ -9,10 +9,11 @@
 </blockquote>
 <hr>
 
+<div style="border: 1px solid #fff; border-radius: 10px;">
 ## Образование:
 - Среднее профессиональное — ASPC, факультет Информационные системы
 - Дополнительное — курс от Gies College of Business (University of Illinois) на платформе Coursera
-<hr>
+</div>
 
 ## Стек:
 - Основные ЯП:
