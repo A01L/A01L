@@ -29,8 +29,8 @@
 
 - Инструменты:
 
-  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,npm,figma,obsidian,notion,blender,ai,ps,pr)](https://github.com/A01L)
-  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 	![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) 
+  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,npm,figma,obsidian,notion,blender,ai,ps,pr)](https://github.com/A01L) <br>
+  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 	![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
 <hr>
 
 ## Мои Open-Source проекты
