@@ -1,5 +1,5 @@
 # Про меня:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Кодинг...+Кодинг...+Кодинг...)](https://git.io/typing-svg) <br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=...)](https://git.io/typing-svg) <br>
 Меня зовут Адиль, я инженер-программист из Алматы, Казахстан. <br>
 Официально: __Нурадиль Тахирович__ 2004 (21 год) <br>
 Электронная почта - adil19032004@gmail.com <br><br>
