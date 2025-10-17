@@ -1,4 +1,4 @@
-# Корокто обо мне:
+# Коротко обо мне:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=...)](https://git.io/typing-svg) <br>
 Адиль, инженер-программист из Алматы, Казахстан. <br>
 Официально: __Нурадиль Тахирович__ 2004 (21 год) <br>
