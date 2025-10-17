@@ -1,17 +1,18 @@
-# Про меня:
+# About:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=...)](https://git.io/typing-svg) <br>
-Меня зовут Адиль, я инженер-программист из Алматы, Казахстан. <br>
+Адиль, инженер-программист из Алматы, Казахстан. <br>
 Официально: __Нурадиль Тахирович__ 2004 (21 год) <br>
 Электронная почта - adil19032004@gmail.com <br><br>
 
 <blockquote>
-Энтузиаст и экспериментатор. Ищу нестандартные подходы, быстрые итерации и системный взгляд на архитектуру.
+Энтузиаст и экспериментатор. Нестандартные подходы, быстрые итерации и системный взгляд на архитектуру.
 </blockquote>
 <hr>
 
 ## Образование:
 - Среднее профессиональное — ASPC, факультет Информационные системы
 - Дополнительное — курс от Gies College of Business (University of Illinois) на платформе Coursera
+- PS: Высшее планирую но еще не нашел хорошую для себя
 <hr>
 
 ## Стек:
@@ -33,7 +34,7 @@
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 	![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white) ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 <hr>
 
-## Мои Open-Source проекты
+## Личные Open-Source проекты
 #### JetLine (PHP Framework) 
 - Минималистичный PHP-фреймворк с акцентом на скорость, читаемость и системную архитектуру. Создан для быстрого старта и масштабирования web-проектов без лишнего шаблонного шума. Также в фреймворке встрон AI инетграция по API Gemini.<br>
 
@@ -47,12 +48,12 @@
 - Система для отслеживания трафика и подсчета перенаправлений зрителей и гостей на ссылки. Система может определять устройство и страну, регион, операционную систему, браузер, дату. Есть собственный фильтр по датам и прочее данным.
 <hr>
 
-## Достижения:
-- Гран-при на Хакатоне 2023 во время колледжа
-- Завершено более 10 коммерческих проектов по контракту
-- Создатель проекта OK-NA.kz — платформа по недвижимости
-- Основатель Creative студии J.CODE.S
+## Кто же я:
+- Победитель гран-при на Хакатоне 2023 ASPC во время колледжа
+- Бывший исполнитель более 5 коммерческих проектов по контракту
+- Сооснователь проекта OK-NA.KZ — платформа по недвижимости
+- Основатель Digital агентства J.CODE.S
 <hr>
   
 ## P.S.
-_Мир тесен, а GitHub — ещё теснее. Увидимся в коммитах._
+_Мир тесен, а GitHub — ещё теснее. Увидимся за чашкой кофе или в коммитах._
