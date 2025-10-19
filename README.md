@@ -30,7 +30,7 @@
 
 - Прочее навыки:
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,threejs,mysql,ubuntu,firebase,redis,aws,arduino)](https://github.com/A01L)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,threejs,mysql,ubuntu,docker,redis,aws,arduino)](https://github.com/A01L)
 
 - Инструменты:
 
