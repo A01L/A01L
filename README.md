@@ -1,65 +1,84 @@
-# Коротко обо мне:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=...)](https://git.io/typing-svg) <br>
-Адиль, инженер-программист из Алматы, Казахстан. <br>
-Официально: __Нурадиль Тахирович__ 2004 (21 год) <br>
-Электронная почта - adil19032004@gmail.com <br><br>
+<div align="center">
 
-<blockquote>
-Энтузиаст и экспериментатор. Нестандартные подходы, быстрые итерации и системный взгляд на архитектуру.
-</blockquote>
+# 🌌 NURADIL TAKHIROV
+### `SYSTEM ARCHITECT & AI PIONEER`
 
-## Образование:
-- Среднее профессиональное — ASPC, факультет Информационные системы
-- Дополнительное — курс от Gies College of Business (University of Illinois) на платформе Coursera
-- PS: Высшее планирую но еще не нашел хорошую для себя
-<hr>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Architecting+Digital+Ecosystems;Engineering+Hybrid+Runtimes;AI+Integration+Visionary;Solving+Complexity+with+Simplicity)](https://git.io/typing-svg)
 
-## Цели в каръере:
-- Стать Solution Архитектор ПО, а дальше топ менеджер в IT компании.
-- Перейти на разработку в сфере ИИ и машинное обучение. 
-<hr>
+<p align="center">
+<img src="https://img.shields.io/badge/Focus-Scalability-00D1FF?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Mindset-Experimental-FF00E4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Origin-Almaty%2C%20KZ-white?style=for-the-badge&logo=air-kazakhstan&logoColor=blue" />
+</p>
 
-## Стек:
-- Основные ЯП:
+---
 
-  [![My Skills](https://skillicons.dev/icons?i=php,js,py)](https://github.com/A01L)
+## 🧬 Engineering Manifesto
+> "Пишу код и создаю структуру, которая выдержит нагрузку завтрашнего дня. Подход: нестандартная логика, быстрая итерация и архитектурная чистота."
 
-- Дополнительные ЯП:
+</div>
 
-  [![My Skills](https://skillicons.dev/icons?i=java,nodejs,go,cpp,ts)](https://github.com/A01L)
+## 🛠 Tech Stack Matrix
 
-- Прочее навыки:
+| Layer | Technologies |
+| :--- | :--- |
+| **Core Engines** | `PHP 8.x` `JavaScript (ES6+)` `Python` `Go` `C++` |
+| **Architectural Tools** | `Docker` `Kafka` `RabbitMQ` `Redis` `AWS` `Nginx` |
+| **Frameworks & Runtimes** | `Node.js` `TypeScript` `Laravel` `Spring` `React` |
+| **Data Science & AI** | `Gemini API` `OpenAI SDK` `Pandas` (Aspirant) |
+| **Design & Media** | `Figma` `Blender` `Illustrator` `After Effects` |
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,jquery,kafka,mysql,ubuntu,docker,redis,aws,rabbitmq)](https://github.com/A01L)
+---
 
-- Инструменты:
+## 🏗 High-End Engineering Projects (Pet-Portfolio)
 
-  [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,github,npm,figma,obsidian,notion,blender,ai,ps,pr)](https://github.com/A01L) <br>
-  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 	![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white) ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-<hr>
+### 💎 **Kernelo** | *Hybrid Node.js Ecosystem*
+* **Concept:** Переосмысление структуры Node.js приложений через **CCP (Container Control Protocol)**.
+* **The Problem:** Высокая связность (tight coupling) в микросервисах и сложность управления гибридными средами.
+* **The Architecture:** Позволяет инициировать автономные контейнеры со своими фреймворками внутри единого ядра, которое берет на себя Middleware и межпроцессную коммуникацию.
 
-## Личные Open-Source проекты
-#### Kernelo (Гибридное ядро для Node.js)
-- CCP (Container Control Protocol) - архитектура фреймворков на Node.js, в которой приложение или сервисы строится из автономных контейнеров, каждый из которых может быть инициирован собственным фреймворком. Ядро CCP управляет маршрутизацией, MiddleWare и коммуникацией между контейнерами, формируя гибридную мульти-среду исполнения.
+### 🚀 **JetLine** | *Next-Gen PHP Framework*
+* **Concept:** Ультра-легкий фреймворк с упором на DX (Developer Experience).
+* **Innovation:** Нативная **AI-прослойка**. В ядро вшита интеграция с Gemini API для интеллектуальной обработки запросов «из коробки».
+* **Performance:** Оптимизированный роутинг и отсутствие лишнего "шаблонного мусора".
 
-#### JetLine (PHP Framework) 
-- Минималистичный PHP-фреймворк с акцентом на скорость, читаемость и системную архитектуру. Создан для быстрого старта и масштабирования web-проектов без лишнего шаблонного шума. Также в фреймворке встрон AI инетграция по API Gemini.<br>
+### 🖱 **NotHummanScript** | *Advanced Automation DSL*
+* **Concept:** Скриптовый язык для имитации поведения реального пользователя.
+* **Logic:** Поддержка циклов, переменных и адаптивных задержек, что делает автоматизацию ввода неотличимой от человеческой.
 
-#### NotHummanScript 
-- Экспериментальный минималистичный скриптовый язык для автоматизации ввода с клавиатуры и движения мыши. Поддерживает переменные, циклы, задержки и декларативный синтаксис.<br>
+### 📊 **JTracker** | *Advanced Analytics Engine*
+* **Concept:** Высокопроизводительная система трекинга трафика.
+* **Capabilities:** Глубокая аналитика: от детекции OS и браузера до региональной сегментации с фильтрацией данных в реальном времени.
 
-#### TSB (Tunneling for Share Bytes) 
-- Это CLI-инструмент для peer-to-peer передачи файлов между удалёнными машинами без необходимости в выделенном сервере или домене. Использует ngrok для динамического создания защищённого туннеля.<br>
+---
 
-#### JTracker (Just Tracker) 
-- Система для отслеживания трафика и подсчета перенаправлений зрителей и гостей на ссылки. Система может определять устройство и страну, регион, операционную систему, браузер, дату. Есть собственный фильтр по датам и прочее данным.
-<hr>
+## 📈 Contribution & Statistics
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=A01L&show_icons=true&theme=tokyonight&border_radius=10&show_owner=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A01L&layout=compact&theme=tokyonight&border_radius=10" />
+</p>
 
-## Кто же я:
-- Победитель гран-при на Хакатоне 2023 ASPC во время колледжа
-- Молодой участник в роли эксперта на форуме IT Forum в ASPC
-- Бывший исполнитель более 4 коммерческих проектов по контракту
-<hr>
-  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A01L&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎖 Experience Milestones
+* **Grand Prix Winner:** Хакатон ASPC 2023 — лучший технический проект.
+* **Industry Expert:** Приглашенный эксперт на IT Forum ASPC.
+* **Contractor:** Успешно закрыто 4+ коммерческих проекта (NDA).
+
+---
+
+## 📡 Get in Touch
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adil19032004@gmail.com)
+
+**Ready to transform complex ideas into elegant code.**
+
 ## P.S.
 _Мир тесен, а GitHub — ещё теснее. Увидимся за чашкой кофе или в коммитах._
+
+</div>
