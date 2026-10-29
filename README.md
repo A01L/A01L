@@ -16,8 +16,8 @@ Almaty, Kazakhstan
 
 ### About
 
-I design backend systems that stay simple under load: message queues, caching, search and clean service boundaries.
-I build AI into products where it actually removes work, and I automate everything I do more than twice.
+I design backend systems that stay simple under load and ship desktop products people actually use.
+I build AI into products where it removes real work, and I automate everything I do more than twice.
 
 - 🏆 **Grand Prix, ASPC Hackathon 2023**, best technical project
 - 🎤 Invited expert at **IT Forum ASPC**
@@ -31,53 +31,66 @@ I work with **Claude** every day as an engineering tool, not a chatbot:
 
 - **Claude Code** for refactoring, code review, debugging and writing tests across whole repositories
 - **Agent workflows**: multi-step tasks broken into plans, delegated and verified end to end
-- **LLM inside products**: classification, summarisation, content generation, prompt-injection screening
+- **LLM inside products**: Bookich generates entire books through the Claude CLI
 - **Process automation**: CI/CD, scripted pipelines, scheduled jobs, tooling that removes manual routine
 
-Result: faster delivery without dropping quality. Every AI-generated change is reviewed and tested before it ships.
+Faster delivery without dropping quality: every AI-generated change is reviewed and tested before it ships.
 
 ---
 
 ### Featured projects
 
-#### [CLAIR](https://github.com/A01L/CLAIR) · AI feedback analysis platform
-Backend that collects user feedback, complaints and suggestions, then classifies and analyses them automatically.
-- Gemini-based sentiment analysis, categorisation (bug / suggestion / request) and summaries
-- Custom per-channel AI prompts, screened for toxicity and prompt injection before saving
-- Hash-based deduplication and spam scoring that skips unnecessary AI calls
-- RabbitMQ workers with a dead-letter queue, Redis-cached analytics, Elasticsearch fuzzy search, IP geo-enrichment
+<h4><a href="https://github.com/A01L/bookich">📚 Bookich</a> · AI book studio for Windows</h4>
 
-`Node.js` `Express` `PostgreSQL` `RabbitMQ` `Redis` `Elasticsearch` `Docker Compose` `Gemini API`
+<a href="https://github.com/A01L/bookich"><img src="https://github.com/A01L/bookich/raw/main/docs/banner.png" alt="Bookich" width="100%"></a>
 
-#### [TSB](https://github.com/A01L/TSB) · Peer-to-peer file transfer CLI
-Send files between remote machines with no dedicated server or domain.
-- Automatic Ngrok tunnel on receive, direct sender → receiver transfer
-- MD5 integrity check and live progress bars on both sides
+Describe a topic and Bookich proposes a table of contents and a cover, then writes the book (up to 200 pages) with diagrams, tables and examples. You control the structure, the AI writes the text. Read, edit and export to PDF or Markdown; everything is stored locally.
 
-`Python` `Flask` `Ngrok` `CLI`
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/A01L/bookich"><img src="https://github.com/A01L/bookich/raw/main/docs/screenshots/03-outline.png" alt="Outline"></a></td>
+<td width="50%"><a href="https://github.com/A01L/bookich"><img src="https://github.com/A01L/bookich/raw/main/docs/screenshots/06-reader.png" alt="Reader"></a></td>
+</tr>
+</table>
 
-#### Bookich · AI book studio for Windows
-Desktop app to read, write and export books to PDF. Its AI module generates full books (up to 200 pages) and covers using a local **Claude CLI** or the OpenAI API.
+`Electron` `Claude CLI` `OpenAI API` `SQLite (sql.js)` `PDF export`
 
-`Desktop` `Claude CLI` `OpenAI API` `PDF`
+<br>
 
-#### Online Office · Virtual office for remote teams
-Desktop app where every employee has a cabinet on a shared office plan: presence, roles, calls and a hold-to-talk "open door" for instant two-way voice. Self-hosted with Docker.
+<h4><a href="https://github.com/A01L/Viny">💿 Viny</a> · Vinyl turntable simulator</h4>
 
-`Node.js` `MySQL` `WebRTC` `Docker`
+<a href="https://github.com/A01L/Viny"><img src="https://github.com/A01L/Viny/raw/main/docs/preview.png" alt="Viny" width="100%"></a>
 
-#### Viny · Vinyl turntable simulator
-Windows app with a record shelf: design your own discs (label art, sleeve), up to 15 tracks each, played back with realistic vinyl sound.
+A turntable for your own music: drag the tonearm, use the cue lever, adjust pitch ±8%. Build discs on a walnut record shelf with custom labels, covers and up to 15 tracks, then share them as `.viny` files. The sound engine models motor inertia, wow & flutter, saturation, surface noise and clicks.
 
-`Desktop` `Audio`
+`Electron` `Web Audio API` `Windows`
+
+<br>
+
+<h4><a href="https://github.com/A01L/TSB">🔗 TSB</a> · Peer-to-peer file transfer CLI</h4>
+
+<a href="https://github.com/A01L/TSB"><img src="https://raw.githubusercontent.com/A01L/TSB/main/info.png" alt="TSB" width="100%"></a>
+
+Send files between remote machines with no dedicated server or domain: automatic Ngrok tunnel, direct transfer, MD5 integrity check and live progress on both sides.
+
+`Python` `Flask` `Ngrok`
+
+<br>
+
+<h4><a href="https://github.com/A01L/kernelo">⚙️ Kernelo</a> · Modular Node.js framework</h4>
+
+Isolates the core from business logic: application code lives in containers, the kernel handles routing, modules and configs. Includes **Watchtower**, a built-in web monitor for container performance, routes, traffic, CPU, RAM and disk.
+
+`Node.js` `npm install kernelo`
+
+<br>
 
 <details>
-<summary><b>More projects</b></summary>
+<summary><b>In development</b></summary>
+<br>
 
-- **Kernelo** · Node.js runtime that runs isolated containers, each with its own framework, inside one core that handles middleware and inter-process communication
+- **Online Office** · virtual office for remote teams: personal cabinets on a shared office plan, presence, roles, calls and a hold-to-talk "open door" for instant two-way voice. Self-hosted with Docker.
 - **JetLine** · lightweight PHP framework focused on short, readable code
-- **NotHummanScript** · DSL for human-like input automation: loops, variables, adaptive delays
-- **JTracker** · traffic analytics: OS / browser detection, regional segmentation, real-time filtering
 
 </details>
 
@@ -89,7 +102,8 @@ Windows app with a record shelf: design your own discs (label art, sleeve), up t
 | :-- | :-- |
 | **Languages** | JavaScript / TypeScript · PHP 8 · Python · Go · C++ |
 | **Backend** | Node.js · Express · Laravel · Spring |
-| **Data & infra** | PostgreSQL · MySQL · Redis · RabbitMQ · Kafka · Elasticsearch |
+| **Desktop** | Electron |
+| **Data & infra** | PostgreSQL · MySQL · SQLite · Redis · RabbitMQ · Kafka · Elasticsearch |
 | **DevOps** | Docker · Docker Compose · Nginx · AWS · Linux |
 | **AI** | Claude (Claude Code, CLI, API) · Gemini API · OpenAI API |
 | **Design** | Figma · Blender · Illustrator · After Effects |
